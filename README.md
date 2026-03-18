@@ -22,8 +22,8 @@
 </div>
 <br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light" />
-<h2 align="center">GitHub Stats</h2>
 
+<h2 align="center">GitHub Stats />
 <div align="center">
 
 ![Cryoellz's Stats](https://github-readme-stats.vercel.app/api?username=Cryoellz&theme=radical&show_icons=true&hide_border=true&count_private=true)<br/> <br/>
