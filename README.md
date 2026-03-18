@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">A Computer Science Student from Polytechnic University of the Philippines-Manila</h5>
+<h5 align="center">A Computer Science Student from Polytechnic University of the Philippines-Manila⭐</h5>
 
 ###
 
