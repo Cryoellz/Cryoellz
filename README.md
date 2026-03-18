@@ -5,9 +5,6 @@
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2txcHpxbjhzY3Y0YXB5N2U3N3F3aHVhNHJxMXA5MDh5dno4NmRpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
 </div>
-
-<br />
-
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
@@ -23,9 +20,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
 </div>
-
 <br />
-
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light" />
+</div>
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
