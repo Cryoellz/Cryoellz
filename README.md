@@ -1,7 +1,3 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Yuan!</h1>
 
 <h5 align="center">A Computer Science Student from Polytechnic University of the Philippines-Manila</h5>
@@ -39,11 +35,3 @@
 ![Cryoellz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryoellz&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 <br />
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cryoellz/Cryoellz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cryoellz/Cryoellz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cryoellz/Cryoellz/output/pacman-contribution-graph.svg">
-</picture>
