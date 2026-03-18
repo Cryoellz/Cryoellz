@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuan!</h1>
 <h3 align="center">A Computer Science Student from Polytechnic University of the Philippines-Manila</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cryoellz&label=Profile%20views&color=0e75b6&style=flat" alt="cryoellz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cryoellz&label=Profile%20views&color=0e75b6&style=flat" alt="Cryoellz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryoellz" alt="cryoellz" /></a> </p>
 
