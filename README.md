@@ -8,11 +8,17 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2txcHpxbjhzY3Y0YXB5N2U3N3F3aHVhNHJxMXA5MDh5dno4NmRpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2txcHpxbjhzY3Y0YXB5N2U3N3F3aHVhNHJxMXA5MDh5dno4NmRpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
 
 ###
 
-<h6 align="left">I am currently a freshman Computer Science student bridging the gap between logic and creativity. <br>    Right now, my primary focus is diving deep into the C family of programming languages, while also exploring interests in game development and cloud computing.<br>  <br>    Beyond the code, I am a huge multimedia enthusiast. I love visual storytelling through photography and filmmaking—whether I'm out shooting, working on a short film, or designing a multimedia portfolio website. I'm always looking for ways to combine my technical skills with my background in the arts!</h6>
+<p align="justify">
+I am currently a freshman Computer Science student bridging the gap between logic and creativity. Right now, my primary focus is diving deep into the C family of programming languages, while also exploring interests in game development and cloud computing.
+</p>
+
+<p align="justify">
+Beyond the code, I am a huge multimedia enthusiast. I love visual storytelling through photography and filmmaking—whether I'm out shooting, working on a short film, or designing a multimedia portfolio website. I'm always looking for ways to combine my technical skills with my background in the arts!
+</p>
 
 ###
 
